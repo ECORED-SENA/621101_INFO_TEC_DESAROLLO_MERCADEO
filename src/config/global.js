@@ -1,22 +1,25 @@
 export const global = {
-  nombrePrograma:
-    'Atención integral de urgencias a víctimas de ataque con agentes químicos',
-  codigo: '33110258',
-  horas: 48,
-  semanas: 4,
+  nombrePrograma: 'Tecnología en desarrollo de procesos de mercadeo',
+  codigo: '124101',
+  horas: '3984',
+  semanas: '27',
   modalidad: 'virtual',
   requisitosIngrso: [
-    'Solicitud de las Instituciones del Sistema General de Seguridad Social en Salud.',
-    'Profesionales, tecnólogos y técnicos de salud que brindan atención a las víctimas de ataque con agentes químicos.',
-    'Cumplir con el trámite de selección definido por el Centro de Formación.',
-    'Se requiere que el aprendiz AVA (Ambientes Virtuales de Aprendizaje) tenga dominio de elementos básicos en el manejo de herramientas informáticas y de comunicación como correo electrónico, chat, procesadores de texto, software para presentaciones, navegadores de Internet, y otros sistemas y herramientas tecnológicas necesarias para la formación virtual.',
+    'Superar la prueba de aptitud, motivación, interés y competencias mínimas de ingreso. Además, el aprendiz debe tener dominio de elementos básicos en el manejo de herramientas informáticas y de comunicación como: correo electrónico, chats, procesadores de texto, software para presentaciones, navegadores de internet, otros sistemas y herramientas tecnológicas necesarias para la formación virtual. ',
+    'Nivel académico: Media académica.',
+    'Grado: Once.',
+    'Certificación académica: requiere.',
+    'Experiencia Laboral: no requiere.',
+    'Edad mínima definida: 16 años.',
+    'Requisitos adicionales: Presentar el resultado de la prueba o examen de estado de la educación media. Título de bachiller o su equivalente validación aprobada por la entidad competente',
+    'Restricciones de ingreso soportadas en la legislación vigente: No existe legislación que establezca restricciones de ingreso a nivel de discapacidad física y cognitiva.',
+    'Aspectos actitudinales, motivacionales y de interés: Interés relacionado con la disposición para el trabajo en equipo, vocación de servicio, manejo de comunicación asertiva, capacidad de entender al otro, capacidad de observación y creatividad. No existe legislación que establezca restricciones de ingreso a nivel de discapacidad física y cognitiva.',
   ],
-  // imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
+  //- imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
   videoBannerPrincipal:
     '<iframe data-v-1f9e4816="" width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>',
   fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
 }
-
 export const menuPrincipal = {
   menu: [
     {

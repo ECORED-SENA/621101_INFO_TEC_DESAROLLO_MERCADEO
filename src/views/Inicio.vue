@@ -1,41 +1,40 @@
 <template lang="pug">
 section
   BannerPrincipal.mb-5
-
-
   .container.tarjeta.tarjeta__template--azul-claro.px-3.py-4.px-sm-5.pb-sm-5.mb-5
     .titulo__template--a.mb-4
       span.h6 1. Presentación
 
-    p En Colombia, los ataques mediante agentes químicos son un delito y una de las formas en las que se manifiesta en el país las violencias de género. A pesar de los esfuerzos estatales, esta violencia sigue presentándose y con frecuencia, las víctimas son atendidas de forma inadecuada en las diferentes instituciones responsables del restablecimiento de sus derechos (sectores salud, justicia y protección)
+    p El SENA, le da la bienvenida al Programa de tecnología en Desarrollo de Procesos de Mercadeo, soportado en el reiterado cambio, en las preferencias de los consumidores, debido a la evolución tecnológica y la insistente lucha de las empresas, por   obtener   la   fidelización   de   sus   usuarios que ha ocasionado que hoy en día, se encuentren productos y servicios capaces de satisfacer cualquier necesidad, por lo cual, entender las particularidades del mercadeo, es la clave, para el éxito de toda organización (Puente, 2006).
       br
-      br
-      | Por tal motivo, el presente curso hace parte de las acciones que el Ministerio de Salud y Protección Social está realizando para garantizar que todas las víctimas de las diferentes manifestaciones de las violencias de género reciban una atención integral, oportuna y de calidad que permita su recuperación. Su principal objetivo es brindar a los equipos de salud información clara sobre las particularidades de las agresiones por agentes químicos, así como las acciones que deben implementarse en diferentes momentos para reducir el daño y tratar las afectaciones a la salud.
+    p Con este programa usted desarrollará las competencias que le permitirán desenvolverse en el apoyo para adelantar estudios y estrategias de mercadeo, desarrollo de productos, aportar en el manejo de la comunicación corporativa y actualizar información de proyectos de mercadeo, acordes con los planes estratégicos y políticas de la organización.
 
   .container.tarjeta.tarjeta__template--azul-claro.px-3.py-4.px-sm-5.pb-sm-5.mb-5
     .titulo__template--a.mb-4
-      span.h6 2. Justificación<br>del programa
-
-    p Con el propósito de garantizar que las víctimas de agresiones por agentes químicos reciban en cualquier institución de salud una atención oportuna, pertinente y con racionalidad científica, de manera que se logre reducir el daño físico y mental, así como, que se desarrollen las acciones que les garantice el acceso a la justicia, a la protección y al restablecimiento de los derechos afectados, se dispone del Protocolo de Atención Integral en Urgencias a Víctimas de Ataque con Agentes Químicos, el cual debe ser observado y aplicado por los prestadores de servicios de salud y demás agentes que tengan contacto primario con las víctimas. El Gobierno Nacional se encargará de garantizar la capacitación del personal estatal que pueda tener contacto primario con una víctima de ataque con sustancias o agentes químicos corrosivos, a fin de darle la atención correspondiente.
-
+      span.h6 2. Perfil<br>de ingreso
+    p.mb-3 Para responder a las dinámicas de los procesos inherentes al mercadeo, el SENA oferta, la Tecnología en Desarrollo de Procesos de Mercadeo, con la finalidad de que, las acciones de marketing aplicadas por las organizaciones se conviertan en una actividad empresarial proactiva, inteligente y dinámica; en donde el empresario, debe romper paradigmas para aceptar que esta área, impacte las demás áreas funcionales de la empresa y se convierta, en el “alma de la organización” (Herrera, 2013).
+    p.mb-3 Teniendo en cuenta, que el mercadeo, “es el proceso de desarrollar, promover y distribuir productos, con el fin de responder a las exigencias y deseos de los clientes”(Louis Scheeider  Farese, 2001); es innegable, la necesidad de que toda organización  comercial, cuente con, Asistentes de mercadeo, publicidad y comunicaciones, que intervengan en el desarrollo de estrategias de mercadeo; premisa  con  la  cual,  parecen  estar  de acuerdo los empresarios; ya que las ocupaciones relacionadas con mercadeo y ventas reportan un mayor número de vacantes colocados y está dentro de las diez principales ocupaciones, de la mesa sectorial (APE -SENA, 2017).
+    p Finalmente, las oportunidades de vinculación laboral para los Asistentes de mercadeo, publicidad y comunicaciones, son prometedoras, si se tiene en cuenta, el incremento en la demanda de personal capacitado, en ocupaciones relacionadas con los servicios; la cual representó, el 55% del total de vacantes registradas en el Servicio público de empleo del SENA –APE, en el año 2017, que si se compara, con la cifra del año inmediatamente anterior, se observó una variación positiva del 4,01%  (Observatorio SPE -SENA, 2017).
+  
   .container.tarjeta.tarjeta__template--azul-claro.px-3.py-4.px-sm-5.pb-sm-5.mb-5
     .titulo__template--a.mb-4
-      span.h6 3. Población<br>objetivo
-
-    p El curso está dirigido a profesionales, tecnólogos y técnicos en salud que requieren conocer elementos conceptuales y normativos para implementar procesos y procedimientos operativos básicos que garanticen una atención en salud integral, oportuna y de calidad a las víctimas de ataque con agentes químicos.
-
+      span.h6 3. Perfil <br> de egreso
+    p El egresado del programa Tecnología en desarrollo de procesos de mercadeo es un talento humano formado integralmente bajo el enfoque por competencias con capacidad para apoyar en la realización de estudios y estrategias de mercadeo, desarrollo de productos, aportar en el manejo de la comunicación corporativa y actualizar información de  proyectos  de  mercadeo,  acordes  con  los  planes  estratégicos y políticas de la organización; con el fin de proporcionar herramientas que posibiliten el proceso de toma de decisiones y lograr  mayor eficiencia, en los procesos de mercadeo, de las organizaciones; con un alto sentido de responsabilidad en el desempeño de sus funciones. El aprendiz, deberá desarrollar “habilidades blandas”, como la comunicación asertiva, proactividad y trabajo en equipo.   Podrá desempeñarse en empresas de servicios, comerciales e industriales, de carácter público o privado y emprender creando unidades de negocio para atención a pymes y micro pymes, en cargos de Asistentes de mercadeo, publicidad y comunicaciones.
+  
   .container.tarjeta.tarjeta__template--azul-claro.px-3.py-4.px-sm-5.pb-sm-5.mb-5
     .titulo__template--a.mb-4
       span.h6 3. Estrategia<br>metodológica
 
-    p Centrada en la construcción de la autonomía para garantizar la calidad de la formación en el marco de la formación por competencias, el aprendizaje por proyectos y el uso de técnicas didácticas activas que estimulan el pensamiento para la resolución de problemas simulados y reales; soportadas en la utilización de las tecnologías de la información y la comunicación, integradas en ambientes virtuales de aprendizaje, que en todo caso recrean el contexto productivo y vinculan al aprendiz con la realidad cotidiana y el desarrollo de las competencias.
+    p Centrada en la construcción de autonomía para garantizar la calidad de la formación en el marco de la formación por competencias, el aprendizaje por proyectos y el uso de técnicas didácticas activas que estimulan el pensamiento para la resolución de problemas simulados y reales; soportadas en la utilización de las tecnologías de la información y la comunicación, integradas, en ambientes virtuales de aprendizaje, que en todo caso recrean el contexto productivo y vinculan al aprendiz con la realidad cotidiana y el desarrollo de las competencias. 
       br
       br
-      | Las estrategias didácticas integradoras están basadas en situaciones reales que le permitirán poner en marcha los contenidos conceptuales y procedimentales, aplicando sus conocimientos y habilidades para resolver un problema, frente a la atención integral de urgencias a víctimas de ataque con agentes químicos.
+      | Igualmente, debe estimular de manera permanente la autocrítica y la reflexión del aprendiz sobre el que hacer y los resultados de aprendizaje que logra a través de la vinculación activa de las cuatro fuentes de información para la construcción de conocimiento:
       br
-      br
-      | Igualmente, debe estimular de manera permanente la autocrítica y la reflexión del aprendiz sobre el quehacer y los resultados de aprendizaje que logra a través de la vinculación activa de las cuatro fuentes de información para la construcción de conocimiento:
-
+      ul
+        li -	El instructor - Tutor
+        li -	El entorno
+        li -	Las TIC
+        li -  El trabajo colaborativo
 
   //- Créditos
   .container.tarjeta.tarjeta__template--azul-claro.px-3.py-4.px-sm-5.mb-5
