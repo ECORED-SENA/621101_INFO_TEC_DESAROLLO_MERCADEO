@@ -171,6 +171,8 @@ export default {
 </script>
 
 <style lang="sass" scoped>
+.tabla-b__header{background-color: #d7e7f7; }
+.tabla-b__header .h6{color: #000}
 .resultados-aprendizaje
   &__item
     margin-bottom: 20px

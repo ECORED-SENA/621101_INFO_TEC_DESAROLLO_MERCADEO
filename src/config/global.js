@@ -19,7 +19,7 @@ export const global = {
   //- imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
   videoBannerPrincipal:
     '<iframe data-v-1f9e4816="" width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>',
-  fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
+  fondoBannerPrincipal: require('@/assets/curso/banner-principal.svg'),
 }
 export const menuPrincipal = {
   menu: [
@@ -342,7 +342,7 @@ export const creditos = {
   ],
   gestoresRepositorio: [
     {
-      nombre: 'Brayan Stiven Pinto Diaz',
+      nombre: 'Ricardo Alfonso Gonzalez Vargas',
       cargo: ['Desarrollo front-end', 'Validación de recursos'],
       centro: 'Centro de comercio y servicios',
       regional: 'Regional Tolima',
