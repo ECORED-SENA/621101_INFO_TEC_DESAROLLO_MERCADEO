@@ -1,5 +1,5 @@
 export const global = {
-  nombrePrograma: 'Tecnología en desarrollo de procesos de mercadeo',
+  nombrePrograma: 'Desarrollo de procesos de mercadeo',
   codigo: '124101',
   horas: '3984',
   semanas: '27',
@@ -13,7 +13,8 @@ export const global = {
     'Edad mínima definida: 16 años.',
     'Requisitos adicionales: Presentar el resultado de la prueba o examen de estado de la educación media. Título de bachiller o su equivalente validación aprobada por la entidad competente',
     'Restricciones de ingreso soportadas en la legislación vigente: No existe legislación que establezca restricciones de ingreso a nivel de discapacidad física y cognitiva.',
-    'Aspectos actitudinales, motivacionales y de interés: Interés relacionado con la disposición para el trabajo en equipo, vocación de servicio, manejo de comunicación asertiva, capacidad de entender al otro, capacidad de observación y creatividad. No existe legislación que establezca restricciones de ingreso a nivel de discapacidad física y cognitiva.',
+    'Aspectos actitudinales, motivacionales y de interés: Interés relacionado con la disposición para el trabajo en equipo, vocación de servicio, manejo de comunicación asertiva, capacidad de entender al otro, capacidad de observación y creatividad.',
+    'No existe legislación que establezca restricciones de ingreso a nivel de discapacidad física y cognitiva.',
   ],
   //- imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
   videoBannerPrincipal:
@@ -261,8 +262,9 @@ export const menuPrincipal = {
 
 export const creditos = {
   liderEquipo: {
-    nombre: 'Maria Camila Garcia Santamaria',
+    nombre: 'Ingry Dayanna Bonilla Monzon',
     cargo: 'Líder del equipo',
+    centro: 'Dirección General',
   },
   contenidoInstruccional: [
     {
@@ -278,26 +280,28 @@ export const creditos = {
       regional: 'Regional Santander',
     },
     {
-      nombre: 'Astrid Lili Puerta',
-      cargo: 'Experta temática',
-      centro: 'Centro Agropecuario de Buga',
-      regional: 'Regional valle',
+      nombre: 'Claudia Juliana León Pinto',
+      cargo: 'Experta tematica',
+      centro: 'Centro de Gestión Industrial',
+      regional: 'Regional Santander',
     },
     {
-      nombre: 'Javier Enrique Santana',
-      cargo: 'Experto temático',
+      nombre: 'Alix Cecilia Chinchilla Rueda',
+      cargo: 'Diseñadora Instruccional ',
       centro: 'Centro de Gestión Industrial',
       regional: 'Regional Distrito Capital',
     },
     {
-      nombre: 'Michael Andrés Cortés Caro',
-      cargo: 'Experto temático',
-      centro: 'Ministerio de Ambiente y Desarrollo Sostenible',
+      nombre: 'Jesús Libardo Acero',
+      cargo: 'Evaluador instruccional',
+      centro: 'Centro de Diseño y metrología',
+      regional: 'Regional Distrito Capital',
     },
     {
-      nombre: 'Mauricio Jiménez Fajardo',
-      cargo: 'Experto temático',
-      centro: 'Ministerio de Ambiente y Desarrollo Sostenible',
+      nombre: 'Julieth Paola Vital López',
+      cargo: 'Revisora de estilo',
+      centro: 'Centro para la Industria y la Comunicación Gráfica',
+      regional: 'Regional Distrito Capital',
     },
     {
       nombre: 'Manuel Alejandro Garzón Cárdenas',
@@ -311,39 +315,29 @@ export const creditos = {
       centro: 'Centro para la Industria y la Comunicación Gráfica',
       regional: 'Regional Distrito Capital',
     },
-    {
-      nombre: 'Carlos Andrés Rodríguez',
-      cargo: 'Evaluador instruccional',
-      centro: 'Centro de Diseño y Metrología',
-      regional: 'Regional Distrito Capital',
-    },
-    {
-      nombre: 'Julieth Paola Vital López',
-      cargo: 'Revisora de estilo',
-      centro: 'Centro para la Industria de la Comunicación Gráfica',
-      regional: 'Regional Distrito Capital',
-    },
   ],
   desarrolloProducto: [
     {
       nombre: 'Francisco José Lizcano Reyes',
       cargo: 'Responsable del equipo',
+      centro: 'Centro Industrial Del Diseño Y La Manufactura',
+      regional: 'Regional Santander',
     },
     {
       nombre: 'Leyson Fabian Castaño Perez',
       cargo: 'Integración de recursos y pruebas',
+      centro: 'Centro Industrial Del Diseño Y La Manufactura',
+      regional: 'Regional Santander',
     },
     {
-      nombre: ['Adriana Rincón Avendaño', 'Eulises Orduz Amezquita'],
+      nombre: ['Daniel Ricardo Mutis Gómez', 'José Jaime Luis Tang Pinzón'],
       cargo: 'Diseño web y Producción Audiovisual',
+      centro: 'Centro Industrial Del Diseño Y La Manufactura',
+      regional: 'Regional Santander',
     },
     {
       nombre: 'Edward Leonardo Pico Cabra',
       cargo: 'Desarrollo Front-End',
-    },
-    {
-      centro: 'Centro Industrial del Diseño y la Manufactura',
-      regional: 'Regional Santander',
     },
   ],
   gestoresRepositorio: [
