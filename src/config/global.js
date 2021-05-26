@@ -303,18 +303,6 @@ export const creditos = {
       centro: 'Centro para la Industria y la Comunicación Gráfica',
       regional: 'Regional Distrito Capital',
     },
-    {
-      nombre: 'Manuel Alejandro Garzón Cárdenas',
-      cargo: 'Experto temático',
-      centro: 'Deutsche Gesellschaft für',
-      regional: 'Internationale Zusammenarbeit (GIZ)',
-    },
-    {
-      nombre: 'Liliana Victoria Morales Gualdrón',
-      cargo: 'Diseñador instruccional',
-      centro: 'Centro para la Industria y la Comunicación Gráfica',
-      regional: 'Regional Distrito Capital',
-    },
   ],
   desarrolloProducto: [
     {
@@ -330,14 +318,20 @@ export const creditos = {
       regional: 'Regional Santander',
     },
     {
-      nombre: ['Daniel Ricardo Mutis Gómez', 'José Jaime Luis Tang Pinzón'],
-      cargo: 'Diseño web y Producción Audiovisual',
+      nombre: [
+        'Daniel Ricardo Mutis Gómez',
+        'José Jaime Luis Tang Pinzón',
+        'Yuly Andrea Rey Quiñonez',
+        'Juan Daniel Polanco Muñoz',
+        'Luis Fernando Sarmiento Betancourth',
+        'Jorge Armando Villamizar Moreno',
+        'Lizeth Karina Manchego Suárez',
+        'Luis Fabian Robles Méndez',
+        'Camilo Andrés Bolaño Rey',
+      ],
+      cargo: 'Diseño web, Desarrollo front-End y Producción Audiovisual',
       centro: 'Centro Industrial Del Diseño Y La Manufactura',
       regional: 'Regional Santander',
-    },
-    {
-      nombre: 'Edward Leonardo Pico Cabra',
-      cargo: 'Desarrollo Front-End',
     },
   ],
   gestoresRepositorio: [
