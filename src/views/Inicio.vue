@@ -116,14 +116,14 @@ section
       span.h6 4. Perfil de ingreso
     p.mb-3 Superar la prueba de aptitud, motivación, interés y competencias mínimas de ingreso. Además, el aprendiz debe tener dominio de elementos básicos en el manejo de herramientas informáticas y de comunicación como: correo electrónico, chats, procesadores de texto, software para presentaciones, navegadores de internet, otros sistemas y herramientas tecnológicas necesarias para la formación virtual. 
     ul
-        li -	Nivel académico: Media académica.
-        li -	Grado: Once.
+        li -	Nivel académico: media académica.
+        li -	Grado: once.
         li -	Certificación académica: requiere.
         li -  Experiencia Laboral: no requiere.
         li -  Edad mínima definida: 16 años. 
-        li -  Requisitos adicionales: Presentar el resultado de la prueba o examen de estado de la educación media. Título de bachiller o su equivalente validación aprobada por la entidad competente
-        li -  Restricciones de ingreso soportadas en la legislación vigente: No existe legislación que establezca restricciones de ingreso a nivel de discapacidad física y cognitiva.
-        li -  Aspectos actitudinales, motivacionales y de interés: Interés relacionado con la disposición para el trabajo en equipo, vocación de servicio, manejo   de   comunicación asertiva, capacidad   de   entender   al   otro, capacidad   de observación y creatividad.
+        li -  Requisitos adicionales: presentar el resultado de la prueba o examen de estado de la educación media. Título de bachiller o su equivalente validación aprobada por la entidad competente
+        li -  Restricciones de ingreso soportadas en la legislación vigente: no existe legislación que establezca restricciones de ingreso a nivel de discapacidad física y cognitiva.
+        li -  Aspectos actitudinales, motivacionales y de interés: interés relacionado con la disposición para el trabajo en equipo, vocación de servicio, manejo   de   comunicación asertiva, capacidad   de   entender   al   otro, capacidad   de observación y creatividad.
         li -  No existe legislación que establezca restricciones de ingreso a nivel de discapacidad física y cognitiva.
   .container.tarjeta.tarjeta__template--azul-claro.px-3.py-4.px-sm-5.pb-sm-5.mb-5
     .titulo__template--a.mb-4

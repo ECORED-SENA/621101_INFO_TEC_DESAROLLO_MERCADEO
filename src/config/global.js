@@ -311,32 +311,22 @@ export const creditos = {
       regional: 'Regional Tolima',
     },
     {
-      nombre: 'Gilberto Junior Rodriguez Rodriguez',
+      nombre: [
+        'Gilberto Junior Rodriguez Rodriguez',
+        'María Carolina tamayo Lopez',
+        'Carmen Alicia Martinez Torres',
+      ],
       cargo: 'Producción audiovisual',
-      centro: 'Centro Industrial del Diseño y la Manufactura',
-      regional: 'Regional Santander',
-    },
-    {
-      nombre: 'María Carolina tamayo Lopez',
-      cargo: 'Producción audiovisual',
-      centro: 'Centro Industrial del Diseño y la Manufactura',
-      regional: 'Regional Santander',
-    },
-    {
-      nombre: 'Carmen Alicia Martinez Torres',
-      cargo: 'Producción audiovisual',
-      centro: 'Centro Industrial del Diseño y la Manufactura',
-      regional: 'Regional Santander',
     },
     {
       nombre: 'Luis Fabian Robles Méndez',
       cargo: 'Desarrollo front-end',
-      centro: 'Centro Industrial del Diseño y la Manufactura',
-      regional: 'Regional Santander',
     },
     {
       nombre: 'María Isabel Román Rueda',
       cargo: 'Validación de diseño y contenido',
+    },
+    {
       centro: 'Centro Industrial del Diseño y la Manufactura',
       regional: 'Regional Santander',
     },
