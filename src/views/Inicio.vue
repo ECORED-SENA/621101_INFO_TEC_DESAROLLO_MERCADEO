@@ -12,7 +12,7 @@ section
   .container.tarjeta.tarjeta__template--azul-claro.px-3.py-4.px-sm-5.pb-sm-5.mb-5
     .titulo__template--a.mb-4
       span.h6 2. Justificación del programa
-    p.mb-3 Para responder a las dinámicas de los procesos inherentes al mercadeo, el SENA oferta, la Tecnología en Desarrollo de Procesos de Mercadeo, con la finalidad de que, las acciones de marketing aplicadas por las organizaciones se conviertan en una actividad empresarial proactiva, inteligente y dinámica; en donde el empresario, debe romper paradigmas para aceptar que esta área, impacte las demás áreas funcionales de la empresa y se convierta, en el “alma de la organización” (Herrera, 2013).
+    p.mb-3 Para responder a las dinámicas de los procesos inherentes al mercadeo, el SENA oferta, la Tecnología en Desarrollo de Procesos de Mercadeo, con la finalidad de que, las acciones de <i>marketing</i> aplicadas por las organizaciones se conviertan en una actividad empresarial proactiva, inteligente y dinámica; en donde el empresario, debe romper paradigmas para aceptar que esta área, impacte las demás áreas funcionales de la empresa y se convierta, en el “alma de la organización” (Herrera, 2013).
     p.mb-3 Teniendo en cuenta, que el mercadeo, “es el proceso de desarrollar, promover y distribuir productos, con el fin de responder a las exigencias y deseos de los clientes” (Louis Scheeider  Farese, 2001); es innegable, la necesidad de que toda organización  comercial, cuente con, Asistentes de mercadeo, publicidad y comunicaciones, que intervengan en el desarrollo de estrategias de mercadeo; premisa  con  la  cual,  parecen  estar  de acuerdo los empresarios; ya que las ocupaciones relacionadas con mercadeo y ventas reportan un mayor número de vacantes colocados y está dentro de las diez principales ocupaciones, de la mesa sectorial (APE -SENA, 2017).
     p Finalmente, las oportunidades de vinculación laboral para los Asistentes de mercadeo, publicidad y comunicaciones, son prometedoras, si se tiene en cuenta, el incremento en la demanda de personal capacitado, en ocupaciones relacionadas con los servicios; la cual representó, el 55% del total de vacantes registradas en el Servicio público de empleo del SENA –APE, en el año 2017, que si se compara, con la cifra del año inmediatamente anterior, se observó una variación positiva del 4,01%  (Observatorio SPE -SENA, 2017).
   
@@ -33,10 +33,10 @@ section
           td Definir el plan de comunicación interna de acuerdo con la cultura y estrategia corporativa.
           td 260101053
         tr  
-          td Definir el plan de Merchandising según objetivos y técnicas de la promoción.
+          td Definir el plan de <i>Merchandising</i> según objetivos y técnicas de la promoción.
           td 260101050
         tr  
-          td Definir el plan de Merchandising según objetivos y técnicas de la promoción.
+          td Definir el plan de <i>Merchandising</i> según objetivos y técnicas de la promoción.
           td 260101059
         tr  
           td Evaluar estrategias de mercadeo de acuerdo con objetivos comerciales.
